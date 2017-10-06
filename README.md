@@ -4,6 +4,7 @@ A simple PHP library for manipulating images nothing fancy, just some dirty code
 
 <h2>Usage</h2>
 Just instantiate the Imgbie class and call it's methods.
+
 ```php
 try {
   $image = new ImgBie($_POST['pictures']);
